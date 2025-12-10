@@ -1,0 +1,4 @@
+x=float(input("عدد اول را وارد کن "))
+y=float(input("عدد دوم را وارد کن"))
+sum=x + y
+print( sum )
